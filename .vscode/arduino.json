@@ -1,0 +1,6 @@
+{
+    "board": "arduino:samd:mkrwifi1010",
+    "port": "COM3",
+    "output": "./build/",
+    "sketch": "battlebot.ino"
+}
